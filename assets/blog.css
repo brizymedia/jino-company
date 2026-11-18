@@ -1,0 +1,56 @@
+/* 지노컴퍼니 행사 인력 블로그 — assets/style.css 의 변수(--ink --acc --sun --paper --disp --mono) 위에 얹는다. scripts/build-blog.mjs 가 쓰는 클래스만 있다. */
+.bcrumb{width:min(760px,100% - 40px);margin:0 auto;padding:22px 0 0;font:500 12.5px var(--mono);letter-spacing:.04em;color:var(--soft)}
+.bcrumb.wide{width:min(1160px,100% - 40px)}.bcrumb a:hover{color:var(--acc-ink);text-decoration:underline}
+.bart{width:min(760px,100% - 40px);margin:0 auto;padding:18px 0 64px}
+.bwrap{width:min(1160px,100% - 40px);margin:0 auto;padding:18px 0 72px}
+.beyebrow{display:inline-flex;align-items:center;gap:9px;margin:0 0 14px;font:500 12.5px var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--acc-ink)}
+.beyebrow::before{content:"";width:22px;height:8px;background:repeating-linear-gradient(135deg,var(--sun) 0 5px,var(--ink) 5px 10px)}
+.bart h1,.bwrap h1{font:400 clamp(28px,4.6vw,46px)/1.28 var(--disp);letter-spacing:-.01em;margin:0 0 18px;text-wrap:balance}
+.bmeta{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 26px}
+.bmeta a,.bmeta span{font:500 12.5px var(--mono);letter-spacing:.04em;padding:6px 13px;border-radius:999px;border:1.5px solid var(--ink);background:var(--card)}
+.bmeta a{background:var(--sun)}.bmeta a:hover{background:var(--acc)}
+.blead{font-size:18.5px;line-height:1.85;margin:0 0 28px;font-weight:500}.blead a{color:var(--acc-ink);font-weight:800;text-decoration:underline;text-underline-offset:3px}
+.bfig{margin:0 0 32px}
+.bfig img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:var(--r);border:2px solid var(--ink);box-shadow:6px 6px 0 var(--ink);background:var(--paper2)}
+.bfig.cover img{aspect-ratio:16/9}
+.bfig figcaption{font-size:14px;color:var(--soft);margin-top:14px;line-height:1.65}
+.bpoints{background:var(--ink);color:#fff;border-radius:var(--r);padding:22px 26px;margin:0 0 30px;border-left:8px solid var(--sun)}
+.bpoints b{display:block;font:500 12.5px var(--mono);letter-spacing:.16em;color:var(--sun);margin-bottom:10px}
+.bpoints ul{margin:0;padding-left:20px;list-style:disc}.bpoints li{line-height:1.75;margin:6px 0}.bpoints a{color:var(--sun);text-decoration:underline}
+.btoc{border:1.5px dashed var(--line);border-radius:var(--r);padding:16px 22px;margin:0 0 40px;background:var(--card)}
+.btoc b{font:500 12.5px var(--mono);letter-spacing:.14em;color:var(--soft)}.btoc ol{margin:8px 0 0;padding-left:0;list-style:none;counter-reset:t}
+.btoc li{line-height:1.95;counter-increment:t}.btoc li::before{content:counter(t,decimal-leading-zero);font:500 12px var(--mono);color:var(--acc-ink);margin-right:10px}
+.btoc a:hover{color:var(--acc-ink);text-decoration:underline}
+.bbody h2,.bfaq h2{font:400 clamp(23px,3.4vw,30px)/1.4 var(--disp);margin:46px 0 14px;scroll-margin-top:92px;text-wrap:balance;padding-top:14px;border-top:3px solid var(--ink)}
+.bbody p,.bfaq p{font-size:17px;line-height:1.95;margin:0 0 18px}
+.bbody ul,.bbody ol{margin:0 0 22px;padding-left:22px}.bbody ul{list-style:disc}.bbody ol{list-style:decimal}
+.bbody li{font-size:17px;line-height:1.85;margin:6px 0}.bbody li::marker{color:var(--acc-ink)}
+.bbody b{background:linear-gradient(transparent 62%,rgba(255,210,63,.7) 62%)}
+.bbody a,.bfaq a{color:var(--acc-ink);font-weight:800;text-decoration:underline;text-underline-offset:3px}
+.btbl{overflow-x:auto;margin:0 0 26px;border:2px solid var(--ink);border-radius:var(--r);background:var(--card);-webkit-overflow-scrolling:touch}
+.btbl table{border-collapse:collapse;width:100%;font-size:15px;min-width:520px}
+.btbl th,.btbl td{padding:11px 14px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line);line-height:1.65}
+.btbl th{background:var(--ink);color:#fff;font-weight:700;white-space:nowrap}.btbl tbody tr:last-child td{border-bottom:0}
+.btbl tbody tr:nth-child(even) td{background:rgba(236,231,218,.45)}
+.btip{background:var(--card);border:2px solid var(--ink);border-left:8px solid var(--acc);border-radius:var(--r);padding:16px 20px;margin:0 0 26px;font-size:16.5px;line-height:1.85}
+.btip::before{content:'FIELD NOTE';display:block;font:500 12px var(--mono);letter-spacing:.16em;color:var(--acc-ink);margin-bottom:4px}
+.bfaq details{background:var(--card);border:2px solid var(--ink);border-radius:var(--r);margin:0 0 10px;padding:0 18px}
+.bfaq summary{cursor:pointer;font-weight:800;padding:14px 0;line-height:1.6}.bfaq details[open] summary{color:var(--acc-ink)}.bfaq details p{margin:0 0 16px}
+.bsrc{margin-top:34px;font-size:14px;color:var(--soft);line-height:1.7}.bsrc ul{padding-left:18px;margin:6px 0 0;list-style:disc}.bsrc a{text-decoration:underline}
+.bcta{background:var(--ink);color:#fff;border-radius:26px;padding:30px;margin-top:46px;display:flex;flex-wrap:wrap;gap:18px;align-items:center;justify-content:space-between;border-bottom:8px solid var(--sun)}
+.bcta h3{font:400 25px/1.35 var(--disp);margin:0 0 6px}.bcta p{margin:0;font-weight:500;font-size:15px;line-height:1.7;color:var(--soft-d)}
+.bcta .num{display:block;font:500 26px var(--mono);color:var(--sun);margin-bottom:12px}
+.bcta .btns{gap:10px}
+.bmore{width:min(1160px,100% - 40px);margin:0 auto;padding:8px 0 80px}.bmore h2{font:400 26px var(--disp);margin:0 0 18px}
+.bcards{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:20px}
+.bcard{display:block;background:var(--card);border:2px solid var(--ink);border-radius:var(--r);overflow:hidden;box-shadow:5px 5px 0 var(--ink);transition:transform .2s,box-shadow .2s}
+.bcard:hover{transform:translate(2px,2px);box-shadow:3px 3px 0 var(--ink)}
+.bcard img{display:block;width:100%;height:auto;aspect-ratio:16/11;object-fit:cover;background:var(--paper2);border-bottom:2px solid var(--ink)}
+.bcard .in{padding:16px 18px 20px}.bcard .r{font:500 11.5px var(--mono);letter-spacing:.1em;color:var(--acc-ink);margin-bottom:7px}
+.bcard .t{font:400 20px/1.4 var(--disp)}
+.bcard .s{font-size:14px;color:var(--soft);line-height:1.65;margin-top:8px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.bpager{display:flex;gap:8px;justify-content:center;margin-top:34px}
+.bpager a,.bpager span{padding:8px 15px;border-radius:12px;border:2px solid var(--ink);font-weight:800;background:var(--card)}.bpager span{background:var(--ink);color:#fff}
+.bempty{background:var(--card);border:2px dashed var(--ink);border-radius:var(--r);padding:24px;color:var(--soft);line-height:1.8;margin-bottom:24px}
+@media (max-width:640px){.bcta{padding:24px;border-radius:22px}.bcta .num{font-size:22px}.bart{padding-bottom:40px}.bbody p,.bbody li,.bfaq p{font-size:16.5px}.bfig img{box-shadow:4px 4px 0 var(--ink)}}
+@media (prefers-reduced-motion:reduce){.bcard{transition:none}.bcard:hover{transform:none}}

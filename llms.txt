@@ -1,0 +1,31 @@
+# 지노컴퍼니 · 행사전문 인력에이전시
+> 전국 행사 인력 파견 전문 행사전문 인력에이전시. 행사 진행요원 · 안내 요원 · MC · 사회자 · VIP 의전 · 통역 · 전시 · 프로모션 인력을 행사 성격에 맞게 매칭한다. 2024년 설립, 대표는 2011년부터 현장 스태프 · 팀장 · 총괄 팀장으로 일했다.
+
+- 대표: 김진호 · 전화 010-6755-5021 · ghekddud1234@naver.com
+- 주소: 서울 관악구 서원8길 9, 제2층 301호(신림동)
+- 서비스: 행사 인력 파견 / 맞춤형 인력 교육 · 훈련 / 행사 운영 컨설팅
+- 인력 유형: MC · 사회자, 안내 요원, 운영 스태프, 부스 운영, 제품 설명, 시연 · 체험 지원, VIP 의전, 통역, 국제 행사 전문 인력
+- 서비스 영역: 기업 행사(컨퍼런스 · 주주총회 · 기념행사), 전시 · 박람회, 프로모션 · 팝업스토어, 공연 · 축제 · 지역 행사 · 마라톤
+- 계약 방식: 단기 프로젝트 · 연간 · 맞춤형 · 인력 파견 · 성과 연동형 · 단계별 · 긴급 지원
+- 비용: 인력 유형 · 전문성에 따른 차등 요금, 규모 · 기간 패키지 할인, 부가세 별도
+
+## 페이지
+- [회사 소개](https://brizymedia.github.io/jino-company/about.html)
+- [인력 서비스](https://brizymedia.github.io/jino-company/service.html)
+- [인력 관리 시스템](https://brizymedia.github.io/jino-company/system.html)
+- [이용 안내](https://brizymedia.github.io/jino-company/process.html)
+- [주요 행사](https://brizymedia.github.io/jino-company/portfolio.html)
+- [견적 문의](https://brizymedia.github.io/jino-company/contact.html)
+
+## 블로그 (행사 인력 운영 실무)
+- [행사 인력 블로그](https://brizymedia.github.io/jino-company/blog/): 진행요원 · 안내 요원 · 주주총회 · 팝업스토어 · 박람회 · 마라톤 · 의전 · 통역 · 비상 대응 · 계약 방식 체크리스트
+- [VIP 의전 기본 동선 좌석 호칭 수행 순서 정리](https://brizymedia.github.io/jino-company/blog/vip-%EC%9D%98%EC%A0%84-%EA%B8%B0%EB%B3%B8-%EB%8F%99%EC%84%A0-%EC%A2%8C%EC%84%9D-%ED%98%B8%EC%B9%AD-%EC%88%98%ED%96%89-%EC%88%9C%EC%84%9C/): VIP 의전의 기본은 동선, 좌석, 호칭, 수행 순서를 사전에 정해 두는 것입니다. 행사 담당자가 의전 인력과 맞춰야 할 항목을 단계별 체크리스트로 정리했습니다.
+- [마라톤 급수대 안내 인력 운영 야외 행사 포인트](https://brizymedia.github.io/jino-company/blog/%EB%A7%88%EB%9D%BC%ED%86%A4-%EC%95%BC%EC%99%B8-%ED%96%89%EC%82%AC-%EA%B8%89%EC%88%98%EB%8C%80-%EC%95%88%EB%82%B4-%EC%9D%B8%EB%A0%A5-%EC%9A%B4%EC%98%81/): 마라톤과 야외 행사의 급수대, 안내 인력 운영 포인트를 정리했습니다. 출발 구역의 혼잡, 급수대 배치, 우천 대비, 인력 교대까지 야외 행사 담당자가 확인할 항목을 봅니다.
+- [박람회 부스 운영 인력과 제품 설명 인력에게 줄 자료](https://brizymedia.github.io/jino-company/blog/%EB%B0%95%EB%9E%8C%ED%9A%8C-%EB%B6%80%EC%8A%A4-%EC%9A%B4%EC%98%81-%EC%A0%9C%ED%92%88-%EC%84%A4%EB%AA%85-%EC%9D%B8%EB%A0%A5-%EC%9E%90%EB%A3%8C/): 박람회 부스 운영 인력과 제품 설명 인력이 현장에서 막히지 않으려면 어떤 자료가 필요한지 정리했습니다. 제품 요약, 질문 답변, 응대 순서, 시연 절차를 자료별로 봅니다.
+- [안내 요원 사전 브리핑에 꼭 넣어야 할 내용 체크리스트](https://brizymedia.github.io/jino-company/blog/%EC%95%88%EB%82%B4-%EC%9A%94%EC%9B%90-%EC%82%AC%EC%A0%84-%EB%B8%8C%EB%A6%AC%ED%95%91-%EB%82%B4%EC%9A%A9-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8/): 행사 당일 안내 요원이 흔들리지 않게 하는 사전 브리핑의 구성을 정리했습니다. 행사 개요, 동선, 응대 문구, 보고 체계, 비상 상황까지 항목별 체크리스트로 봅니다.
+- [주주총회 현장 운영 준비 체크리스트 접수 좌석 입장 동선](https://brizymedia.github.io/jino-company/blog/%EC%A3%BC%EC%A3%BC%EC%B4%9D%ED%9A%8C-%ED%98%84%EC%9E%A5-%EC%9A%B4%EC%98%81-%EC%A4%80%EB%B9%84-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8/): 주주총회 현장 운영은 접수, 좌석 구역 안내, 입장 동선이 핵심입니다. 담당자가 사전에 정리해야 할 항목과 당일 인력의 역할을 체크리스트로 정리했습니다.
+- [팝업스토어 운영 인력 구성 가이드 대기줄 응대 교대](https://brizymedia.github.io/jino-company/blog/%ED%8C%9D%EC%97%85%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%9A%B4%EC%98%81-%EC%9D%B8%EB%A0%A5-%EA%B5%AC%EC%84%B1-%EA%B0%80%EC%9D%B4%EB%93%9C/): 팝업스토어 운영 인력은 입구 줄 관리, 매장 안 응대, 계산과 안내, 교대 인력으로 나눠 구성합니다. 역할별로 필요한 것과 오픈 전 점검 항목을 정리했습니다.
+- [행사 당일 비상 상황 대응 안전 교육에서 다루는 것](https://brizymedia.github.io/jino-company/blog/%ED%96%89%EC%82%AC-%EB%8B%B9%EC%9D%BC-%EB%B9%84%EC%83%81-%EC%83%81%ED%99%A9-%EB%8C%80%EC%9D%91-%EC%95%88%EC%A0%84-%EA%B5%90%EC%9C%A1-aed/): 행사 당일 비상 상황 대응은 화재, 위급상황, AED 사용을 일반 상식 수준에서 미리 알려 두는 것에서 시작합니다. 현장 인력이 알아야 할 순서와 연락 체계를 정리했습니다.
+- [행사 인력 파견 계약 방식 고르기 7가지 언제 무엇을 쓰나](https://brizymedia.github.io/jino-company/blog/%ED%96%89%EC%82%AC-%EC%9D%B8%EB%A0%A5-%ED%8C%8C%EA%B2%AC-%EA%B3%84%EC%95%BD-%EB%B0%A9%EC%8B%9D-%EA%B3%A0%EB%A5%B4%EA%B8%B0-7%EA%B0%80%EC%A7%80/): 행사 인력 파견 계약 방식은 단기 프로젝트, 연간, 맞춤형, 상주 파견, 성과 연동형, 단계별, 긴급 지원 일곱 가지입니다. 행사 성격에 따라 언제 고르는지 정리했습니다.
+- [행사 진행요원 인원을 정할 때 확인할 것 7가지](https://brizymedia.github.io/jino-company/blog/%ED%96%89%EC%82%AC-%EC%A7%84%ED%96%89%EC%9A%94%EC%9B%90-%EC%9D%B8%EC%9B%90-%EC%A0%95%ED%95%98%EA%B8%B0-%ED%8C%90%EB%8B%A8-%ED%95%AD%EB%AA%A9/): 행사 진행요원 인원은 숫자 기준표가 아니라 역할, 위치, 시간대로 정합니다. 담당자가 인력 에이전시에 요청하기 전에 확인할 판단 항목과 질문을 정리했습니다.
+- [행사 통역 인력을 요청할 때 미리 줄 자료 목록](https://brizymedia.github.io/jino-company/blog/%ED%96%89%EC%82%AC-%ED%86%B5%EC%97%AD-%EC%9D%B8%EB%A0%A5-%EC%9A%94%EC%B2%AD-%EB%AF%B8%EB%A6%AC-%EC%A4%84-%EC%9E%90%EB%A3%8C/): 행사 통역 인력을 요청할 때는 행사 개요, 진행 대본, 전문 용어, 발표 자료, 현장 조건을 미리 주어야 합니다. 담당자가 준비할 자료를 항목별로 정리했습니다.

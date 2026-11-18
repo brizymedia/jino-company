@@ -1,0 +1,7 @@
+_raw/
+_contact/
+_pptx.txt
+_dirs.txt
+__pycache__/
+*.pyc
+node_modules/
