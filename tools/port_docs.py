@@ -162,6 +162,10 @@ def common():
         ('전남광주통합특별시 광양시 광양읍 강변동길 1', ADDR_S),
         ('1533-7295', TEL),
         ('gilcaro@naver.com', EMAIL),
+        # 견적서·계약서의 「받는 곳」·예비 메일을 이 회사 대표 메일로 (2026-11-19 형님 지시 — 전에는 큰길브리지 메일이었다)
+        ("const 견적_수신_이메일 = 'gilauto325@gmail.com';", "const 견적_수신_이메일 = 'ghekddud1234@naver.com';"),
+        ("const 회사_수신_이메일 = 'gilauto325@gmail.com';", "const 회사_수신_이메일 = 'ghekddud1234@naver.com';"),
+        ("const 문의서버 = 'https://script.google.com/macros/s/AKfycbwvQ4UJRZklRX7bZB6C0s1yZgSvBAMCVccT580L_1BtiVDyh0DIxShCAvN9McZIB0b7FA/exec';", "const 문의서버 = 'https://script.google.com/macros/s/AKfycbwHQP2hTixAj4Rvh_Rx4-LBVNGIBcNhzl9-HZgLNFvoSIwrekvU93s3EhxJ7vyxnux2Fw/exec';"),
         ("'KB국민은행 788101-01-397776 '", "''"),
         ("bank:'KB국민은행 788101-01-397776 '", "bank:''"),
         ("'KG-'", "'" + CODE_PRE + "'"),
